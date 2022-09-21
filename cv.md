@@ -1,4 +1,5 @@
 # Pavel Sakovich CV 
+![Pavel Sakovich](images/pasha.jpg)
 
 **Full name:** *Pavel Sakovich*  
 **Phone number:** *+375(29)854-76-03*   
