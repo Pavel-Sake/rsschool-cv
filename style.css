@@ -20,3 +20,15 @@ body {
 p {
     line-height: 1.4em;
 }
+
+.cv {
+    width: 100%;
+    max-width: 1024px;
+    height: 100%;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
