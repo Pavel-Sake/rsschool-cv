@@ -19,11 +19,14 @@ Examples of my project can be found on these links:
 * **Riddles:** [code](https://github.com/Pavel-Sake/riddles), [site](https://pavel-sake.github.io/riddles/);
 * ***Stopwatch:*** [code](https://github.com/Pavel-Sake/stopwatch), [site](https://pavel-sake.github.io/stopwatch/);
 * ***Memory-Game:*** [code](https://github.com/Pavel-Sake/Memory-Game), [site](https://pavel-sake.github.io/Memory-Game/);
+* ***Search users with GitHub
+    :*** [code](https://github.com/Pavel-Sake/Startup-Summer-2022
+    ), [site]( https://startup-s-2022.netlify.app/);
 
 ---
 
 From the courses I want to gain experience in the development of websites,
-applications, improve my knowledge in JS, CSS, HTML, and also learn React and Redux.
+applications, improve my knowledge in JS, CSS, HTML,  and also known React and Redux.
 After completing the courses, I want to apply for a job as a frontend developer.
 
 ---
